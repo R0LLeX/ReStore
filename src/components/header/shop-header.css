@@ -1,0 +1,27 @@
+.shop-header {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.shop-header .header_title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  padding-left: 1rem;
+  color: #000;
+}
+
+.shop-header .shoping-cart {
+  align-self: center;
+  font-size: 1.3rem;
+  color: #000;
+}
+
+.shop-header .shoping-cart .cart-icon {
+  font-size: 2rem;
+  color: rgb(16, 124, 129);
+  margin-right: 10px;
+  cursor: pointer;
+}

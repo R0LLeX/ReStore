@@ -1,0 +1,17 @@
+.shoping-cart-table .total {
+  text-align: right;
+  font-size: 1.3rem;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+.shoping-cart-table button {
+  margin-top: 10px;
+}
+.shoping-cart-table button:not(:first-child) {
+  margin-left: 5px;
+}
+
+.table td,
+.table th {
+  vertical-align: middle;
+}
